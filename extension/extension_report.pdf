@@ -1,0 +1,99 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 1931 >>
+stream
+BT
+/F1 11 Tf
+50 800 Td
+14 TL
+(Extension: RMSNorm instead of LayerNorm) Tj
+T*
+(Student 3036807088. Separate from the two-page core report.) Tj
+T*
+() Tj
+T*
+(Question. Does RMSNorm change next-token loss when every other) Tj
+T*
+(factor matches the released baseline?) Tj
+T*
+() Tj
+T*
+(Method. Zhang and Sennrich \(2019\): normalize by the root mean) Tj
+T*
+(square and apply a learned scale. No mean subtraction and no bias.) Tj
+T*
+(Variance is computed in fp32. eps = 1e-5, the LayerNorm default.) Tj
+T*
+(Pre-norm residuals are unchanged: x = x + attn\(norm\(x\)\), then) Tj
+T*
+(x = x + mlp\(norm\(x\)\). Attention, GELU MLP, tied embeddings,) Tj
+T*
+(vocabulary 8192, context 256, AdamW, seed 1337, and the) Tj
+T*
+(10,240,000-token budget are the baseline. The model is trained) Tj
+T*
+(from random initialization on the supplied training split only.) Tj
+T*
+() Tj
+T*
+(Control. The core baseline \(LayerNorm\), not the 4-layer run and) Tj
+T*
+(not the learning-rate run. One factor changes.) Tj
+T*
+() Tj
+T*
+(Evidence to fill after training. Parameter count, processed tokens,) Tj
+T*
+(precision \(trainer bf16; public eval fp32\), hardware, runtime,) Tj
+T*
+(full-split validation cross-entropy and perplexity for baseline) Tj
+T*
+(and RMSNorm, plus the loss curves and the three fixed prompts) Tj
+T*
+(\(temperature 0.8, top-k 40, seed 2026\). Do not compare trainer) Tj
+T*
+(sampled validation with full-split float32 evaluation.) Tj
+T*
+() Tj
+T*
+(How to read the result. A lower loss is not required. If RMSNorm) Tj
+T*
+(is worse, the bias and mean statistics in LayerNorm may matter on) Tj
+T*
+(this short-story subset, or 2500 steps may be too few to separate) Tj
+T*
+(the norms. A single seed is not statistical significance.) Tj
+T*
+(Limitation: the parameter count is slightly smaller because each) Tj
+T*
+(RMSNorm drops a bias vector, so the comparison is not perfectly) Tj
+T*
+(parameter-matched. That gap is reported, not hidden.) Tj
+T*
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000002224 00000 n 
+trailer << /Size 6 /Root 1 0 R >>
+startxref
+2294
+%%EOF

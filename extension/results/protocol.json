@@ -1,0 +1,13 @@
+{
+  "question": "Does replacing LayerNorm with RMSNorm change validation loss under a matched token budget?",
+  "control": "configs/baseline.yaml LayerNorm GPT, same seed, AdamW, data, context, vocab, and 10,240,000 target tokens",
+  "treatment": "extension/configs/rmsnorm.yaml with RMSNorm in every pre-norm and the final norm",
+  "changed_factor": "normalization only",
+  "unchanged": ["vocab_size", "block_size", "n_layer", "n_head", "n_embd", "dropout", "seed", "optimizer", "learning_rate", "token_budget"],
+  "token_budget": 10240000,
+  "max_steps": 2500,
+  "evaluation_protocol": "full public val split, float32, non-overlapping next-token windows (extension/code/evaluate_rmsnorm.py)",
+  "sampling_protocol": "temperature 0.8, top-k 40, seed 2026, up to 160 new tokens, supplied prompts",
+  "status": "code ready; copy metrics.json, train.csv, loss curve, samples.json and evaluation.json here after the GPU run",
+  "do_not_compare": "trainer mixed-precision sampled val loss vs full-split float32 evaluation"
+}
