@@ -1,0 +1,24 @@
+{
+  "checkpoint_sha256": "618f4ebc1a84dadaba0fecf12bea303855e15c800920880936581cb01c6d9c0d",
+  "seed": 2026,
+  "temperature": 0.8,
+  "top_k": 40,
+  "max_new_tokens": 160,
+  "samples": [
+    {
+      "prompt": "Once upon a time, a little girl found a tiny dragon in her garden.",
+      "continuation": " She liked to walk and play all day. One day, she decided to play a game with her friends.\nAs she played, she met a big rabbit. The rabbit said, \"Let's make some big snowman and strong!\" The girl and the rabbit agreed. They all agreed to start eating the big Ben's hat. They were very happy and said, \"Thank you, bird!\"\nFrom that day on, Lily and the rabbit were best friends. They played together in the grass every day. The best of friends. They would look at each other and laugh together. And every time they lived happily ever after.",
+      "full_text": "Once upon a time, a little girl found a tiny dragon in her garden. She liked to walk and play all day. One day, she decided to play a game with her friends.\nAs she played, she met a big rabbit. The rabbit said, \"Let's make some big snowman and strong!\" The girl and the rabbit agreed. They all agreed to start eating the big Ben's hat. They were very happy and said, \"Thank you, bird!\"\nFrom that day on, Lily and the rabbit were best friends. They played together in the grass every day. The best of friends. They would look at each other and laugh together. And every time they lived happily ever after."
+    },
+    {
+      "prompt": "Tom wanted to help his friend, but he did not know how.",
+      "continuation": " He flew up into the hole and landed on Tim. The dog was very sad and did not know what to do.\nTim was sad because he did not know where to find a friend. He went back to his house and gave the dog a wish for a new friend. Tim and his friends looked for the toy together. They looked under the big tree, but they could not find the toy.\nThen, Tim's friend, a dog named Max, came to visit. Max saw Tim playing with the toy ball. Max had a fun idea! He wanted to play with the ball too. He had an idea. Max used the ball to help Ben. He made the ball into a small hole in the hole. Max was so happy! He thanked Max with his new toy. From",
+      "full_text": "Tom wanted to help his friend, but he did not know how. He flew up into the hole and landed on Tim. The dog was very sad and did not know what to do.\nTim was sad because he did not know where to find a friend. He went back to his house and gave the dog a wish for a new friend. Tim and his friends looked for the toy together. They looked under the big tree, but they could not find the toy.\nThen, Tim's friend, a dog named Max, came to visit. Max saw Tim playing with the toy ball. Max had a fun idea! He wanted to play with the ball too. He had an idea. Max used the ball to help Ben. He made the ball into a small hole in the hole. Max was so happy! He thanked Max with his new toy. From"
+    },
+    {
+      "prompt": "The red ball rolled into the forest. Lily followed it and saw",
+      "continuation": " a shiny rock. She picked it up and took it back to the other side of its home.\nThe red ball did not know how to fly and make her laugh. It got very loud and it broke into two pieces. Lily was so happy and said thank you. She waved goodbye to the red ball and went back inside the green forest.",
+      "full_text": "The red ball rolled into the forest. Lily followed it and saw a shiny rock. She picked it up and took it back to the other side of its home.\nThe red ball did not know how to fly and make her laugh. It got very loud and it broke into two pieces. Lily was so happy and said thank you. She waved goodbye to the red ball and went back inside the green forest."
+    }
+  ]
+}

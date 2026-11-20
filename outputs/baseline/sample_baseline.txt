@@ -1,0 +1,24 @@
+{
+  "checkpoint_sha256": "24e13561a8e4c73210750f5c5ee466a1f0a9bb0dfde5b86f8a2237717a5bb33f",
+  "seed": 2026,
+  "temperature": 0.8,
+  "top_k": 40,
+  "max_new_tokens": 160,
+  "samples": [
+    {
+      "prompt": "Once upon a time, a little girl found a tiny dragon in her garden.",
+      "continuation": " She was very sad because it was very hot.\nOne day, she went to the garden to look for things. She found a big red balloon and yellow. Inside the flower, she found a shiny stone. The star started to glow and talk for her.\nThe dragon became surprised and said, \"Thank you for finding my star!\" The dragon said, \"You're welcome, I have a magic star!\" They played together all day.",
+      "full_text": "Once upon a time, a little girl found a tiny dragon in her garden. She was very sad because it was very hot.\nOne day, she went to the garden to look for things. She found a big red balloon and yellow. Inside the flower, she found a shiny stone. The star started to glow and talk for her.\nThe dragon became surprised and said, \"Thank you for finding my star!\" The dragon said, \"You're welcome, I have a magic star!\" They played together all day."
+    },
+    {
+      "prompt": "Tom wanted to help his friend, but he did not know how.",
+      "continuation": " He asked his mommy, \"Where is the cat?\" His mother said, \"Let's play in our house and play together.\"\nTom and his mommy went to the house and they took a big, red ball. The cat was very happy and said, \"Thank you, Tom and his mommy!\" They played with the ball all day long.",
+      "full_text": "Tom wanted to help his friend, but he did not know how. He asked his mommy, \"Where is the cat?\" His mother said, \"Let's play in our house and play together.\"\nTom and his mommy went to the house and they took a big, red ball. The cat was very happy and said, \"Thank you, Tom and his mommy!\" They played with the ball all day long."
+    },
+    {
+      "prompt": "The red ball rolled into the forest. Lily followed it and saw",
+      "continuation": " a shiny rock. She knew that the rock would be strong again.\nLily went back to the big tree. She grabbed the rock and took it around. She put the rock on the rock and it broke into pieces. Lily was very sad. She went to the big tree and found it on the rock. Then, she saw a small bug on the rock. The bug had a fun day in her tree, and she was very happy.",
+      "full_text": "The red ball rolled into the forest. Lily followed it and saw a shiny rock. She knew that the rock would be strong again.\nLily went back to the big tree. She grabbed the rock and took it around. She put the rock on the rock and it broke into pieces. Lily was very sad. She went to the big tree and found it on the rock. Then, she saw a small bug on the rock. The bug had a fun day in her tree, and she was very happy."
+    }
+  ]
+}

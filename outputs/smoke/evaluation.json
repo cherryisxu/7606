@@ -1,0 +1,12 @@
+{
+  "cross_entropy": 7.3336992263793945,
+  "perplexity": 1531.034954233953,
+  "evaluated_tokens": 1024,
+  "context_length": 64,
+  "precision": "float32",
+  "protocol": "non-overlapping next-token windows with exact weighted remainder",
+  "checkpoint_sha256": "a21a9ef4476b18af036ad3f0df13eb367d85023172eda638eb268c9b412d8fd2",
+  "tokens_sha256": "f081016dc886a8c22a19afcda070a87109d7a50887109775962b5fa74ed27275",
+  "model_parameters": 1453568,
+  "checkpoint_step": 20
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 1,
+  "source": "roneneldan/TinyStories",
+  "revision": "f54c09fd23315a6f9c86f9dc80f725de7d8f9c64",
+  "variant": "TinyStoriesV2-GPT4",
+  "license": "CDLA-Sharing-1.0",
+  "dtype": "little-endian uint16",
+  "vocab_size": 8192,
+  "eos_id": 0,
+  "train_stories": 100000,
+  "val_stories": 2000,
+  "train_tokens": 19765359,
+  "val_tokens": 389049,
+  "tokenizer_training_stories": 20000,
+  "files": {
+    "train.bin": {
+      "sha256": "3df0bc5993c240dbb6192e03082181da774570311cd5980fbae3bebc44da39d9",
+      "bytes": 39530718
+    },
+    "val.bin": {
+      "sha256": "f081016dc886a8c22a19afcda070a87109d7a50887109775962b5fa74ed27275",
+      "bytes": 778098
+    },
+    "tokenizer.json": {
+      "sha256": "5d023cbc1979164c53047ff3b4b414f5f0bccdde60348f9bf94f3ffca63f7f9d",
+      "bytes": 552341
+    }
+  }
+}

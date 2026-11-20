@@ -1,0 +1,24 @@
+{
+  "checkpoint_sha256": "618f4ebc1a84dadaba0fecf12bea303855e15c800920880936581cb01c6d9c0d",
+  "seed": 2026,
+  "temperature": 0.8,
+  "top_k": 40,
+  "max_new_tokens": 160,
+  "samples": [
+    {
+      "prompt": "Once upon a time, a little girl found a tiny dragon in her garden.",
+      "continuation": " She was very happy and said, \"Thank you, little girl. I will give you some honey.\"\nThe little girl was very happy because she had someone to give her some honey. She took a deep breath and said, \"Thank you for finding all your honey.\" \nThe little girl smiled and said, \"Thank you, little girl. Let's keep the honey together.\" \nThe little girl was so happy and thanked the little girl. She said, \"Thank you, little girl. I love you too.\"\nThe little girl and the little girl became best friends. They always remembered what they had done and being kind was happy with their new friend.",
+      "full_text": "Once upon a time, a little girl found a tiny dragon in her garden. She was very happy and said, \"Thank you, little girl. I will give you some honey.\"\nThe little girl was very happy because she had someone to give her some honey. She took a deep breath and said, \"Thank you for finding all your honey.\" \nThe little girl smiled and said, \"Thank you, little girl. Let's keep the honey together.\" \nThe little girl was so happy and thanked the little girl. She said, \"Thank you, little girl. I love you too.\"\nThe little girl and the little girl became best friends. They always remembered what they had done and being kind was happy with their new friend."
+    },
+    {
+      "prompt": "Tom wanted to help his friend, but he did not know how.",
+      "continuation": " He asked his friend, the bird, \"How can I help you climb the tree?\"\nThe bird said, \"I don't know, but you must do it.\" Tom thought about it and said, \"Let's help you.\"\nThey became good friends. They played together all day long. Then, Tom and the bird saw a big tree. They climbed the tree and got the hat. Tom and the bird were very happy. They thanked the bird and the bird for helping him. The bird was happy they both learned that when things can happen.",
+      "full_text": "Tom wanted to help his friend, but he did not know how. He asked his friend, the bird, \"How can I help you climb the tree?\"\nThe bird said, \"I don't know, but you must do it.\" Tom thought about it and said, \"Let's help you.\"\nThey became good friends. They played together all day long. Then, Tom and the bird saw a big tree. They climbed the tree and got the hat. Tom and the bird were very happy. They thanked the bird and the bird for helping him. The bird was happy they both learned that when things can happen."
+    },
+    {
+      "prompt": "The red ball rolled into the forest. Lily followed it and saw",
+      "continuation": " many colorful balls. She was very happy.\nAs the red ball flew high, it started to roll. Lily and the blue ball were having so much fun. They played all day, and they always had a good day.",
+      "full_text": "The red ball rolled into the forest. Lily followed it and saw many colorful balls. She was very happy.\nAs the red ball flew high, it started to roll. Lily and the blue ball were having so much fun. They played all day, and they always had a good day."
+    }
+  ]
+}

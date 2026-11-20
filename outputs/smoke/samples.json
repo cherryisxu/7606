@@ -1,0 +1,24 @@
+{
+  "checkpoint_sha256": "a21a9ef4476b18af036ad3f0df13eb367d85023172eda638eb268c9b412d8fd2",
+  "seed": 2026,
+  "temperature": 0.8,
+  "top_k": 40,
+  "max_new_tokens": 16,
+  "samples": [
+    {
+      "prompt": "Once upon a time, a little girl found a tiny dragon in her garden.",
+      "continuation": "'s's saw was play it with let wanted fun to Tim.Once named in",
+      "full_text": "Once upon a time, a little girl found a tiny dragon in her garden.'s's saw was play it with let wanted fun to Tim.Once named in"
+    },
+    {
+      "prompt": "Tom wanted to help his friend, but he did not know how.",
+      "continuation": ". to to in the. in named went he's they a it because!\"",
+      "full_text": "Tom wanted to help his friend, but he did not know how.. to to in the. in named went he's they a it because!\""
+    },
+    {
+      "prompt": "The red ball rolled into the forest. Lily followed it and saw",
+      "continuation": " Tim to. Tim to She fun it help\n a in Tim dog dog \"",
+      "full_text": "The red ball rolled into the forest. Lily followed it and saw Tim to. Tim to She fun it help\n a in Tim dog dog \""
+    }
+  ]
+}

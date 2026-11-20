@@ -1,0 +1,22 @@
+{
+  "repository_version": "assignment2-v1.0.0",
+  "architecture": "rmsnorm",
+  "status": "complete",
+  "seed": 1337,
+  "step": 2500,
+  "max_steps": 2500,
+  "parameter_count": 13886592,
+  "train_tokens": 10240000,
+  "tokens_per_step": 4096,
+  "runtime_seconds": 494.3416243470001,
+  "train_seconds": 452.45733812101753,
+  "peak_gpu_memory_mb": 1345.34423828125,
+  "final_train_loss": 2.2997267603874207,
+  "final_val_loss": 2.2400768876075743,
+  "final_val_perplexity": 9.394053545978636,
+  "best_val_loss": 2.2400768876075743,
+  "data_fingerprint": "08f2457ecb69fffaf4a7e17403e08208c7c10cb8a1dc279fb62f93ac7d35c94c",
+  "precision": "bfloat16",
+  "norm": "rmsnorm",
+  "comparison": "matched token budget against unchanged baseline LayerNorm"
+}

@@ -1,0 +1,24 @@
+{
+  "checkpoint_sha256": "9d70fccd89f5ce52be20230b43d42f68b92163e277c239ead78b35a2766bfb5e",
+  "seed": 2026,
+  "temperature": 0.8,
+  "top_k": 40,
+  "max_new_tokens": 160,
+  "samples": [
+    {
+      "prompt": "Once upon a time, a little girl found a tiny dragon in her garden.",
+      "continuation": " The dragon was sad because it could not fly.\nOne day, the monkey did not know what to do. He tried to fly, but it did not give up. The dragon started to talk. The dragon was very surprised. It was a pretty, strong bear.\nThe dragon had a special, like the dragon. They were all surprised and happy. The dragon learned that it is better to be nice from others. The dragon tried to catch the dragon and sing songs in the grass. The dragon and the dragon became good friends. They played together every day.",
+      "full_text": "Once upon a time, a little girl found a tiny dragon in her garden. The dragon was sad because it could not fly.\nOne day, the monkey did not know what to do. He tried to fly, but it did not give up. The dragon started to talk. The dragon was very surprised. It was a pretty, strong bear.\nThe dragon had a special, like the dragon. They were all surprised and happy. The dragon learned that it is better to be nice from others. The dragon tried to catch the dragon and sing songs in the grass. The dragon and the dragon became good friends. They played together every day."
+    },
+    {
+      "prompt": "Tom wanted to help his friend, but he did not know how.",
+      "continuation": " He flew up into the hole and started to get a safe place. Tom was so happy and thanked his help.\nTom had so much fun that he made his friend happy too. He learned that being kind can make you happy again, and everyone can make everyone happy friends.",
+      "full_text": "Tom wanted to help his friend, but he did not know how. He flew up into the hole and started to get a safe place. Tom was so happy and thanked his help.\nTom had so much fun that he made his friend happy too. He learned that being kind can make you happy again, and everyone can make everyone happy friends."
+    },
+    {
+      "prompt": "The red ball rolled into the forest. Lily followed it and saw",
+      "continuation": " a shiny rock. She picked it up and took it back to the bush. The other ball was so clean. Lily did not know how to sail and make her laugh.\nThen, something unexpected happened. A big wind came and blew the tree away! It turned into a big balloon. Lily and the bird were surprised. They did not know what to do.\nThe moral of the story is to always be careful and be kind to others with all their friends.",
+      "full_text": "The red ball rolled into the forest. Lily followed it and saw a shiny rock. She picked it up and took it back to the bush. The other ball was so clean. Lily did not know how to sail and make her laugh.\nThen, something unexpected happened. A big wind came and blew the tree away! It turned into a big balloon. Lily and the bird were surprised. They did not know what to do.\nThe moral of the story is to always be careful and be kind to others with all their friends."
+    }
+  ]
+}

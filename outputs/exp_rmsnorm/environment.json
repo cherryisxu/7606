@@ -1,0 +1,14 @@
+{
+  "python": "3.13.16",
+  "torch": "2.10.0+cu128",
+  "cuda": "12.8",
+  "device": "Tesla T4",
+  "architecture": "rmsnorm",
+  "source_sha256": {
+    "evaluate_rmsnorm.py": "392611c74cbf99de5291dbfc134a55cf2ba65e7b8e032c5b3420436cc279d5d2",
+    "make_report_pdf.py": "6108d87d03a0ee6f84a541072fb23c1759f8dd32fe813ad5280e766e3356d1a3",
+    "rmsnorm_gpt.py": "2925b0bde54751f88ac4cf9fef5d860dda2e988678069b88aa273737bbac755f",
+    "sample_rmsnorm.py": "000ae3bfb77c80d8942175eec0b200f5b326c9152ae6cb05865011f3ef069737",
+    "train_rmsnorm.py": "0cc30b86e2ee6acb2e30540a9f1c8b4bc77df6dc1e1b2606fd4e1f093a5875f6"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "checkpoint_sha256": "9d70fccd89f5ce52be20230b43d42f68b92163e277c239ead78b35a2766bfb5e",
+  "seed": 2026,
+  "temperature": 0.8,
+  "top_k": 40,
+  "max_new_tokens": 160,
+  "samples": [
+    {
+      "prompt": "Once upon a time, a little girl found a tiny dragon in her garden.",
+      "continuation": " She was very happy to have her heart.\nAs she began to tremble, she saw some old animal on the ground. She thought the dragon was very nice. The dragon was so happy. It said, \"Thank you, Lily! I can help you find my best friends.\" Lily was very happy. They all played together every day.",
+      "full_text": "Once upon a time, a little girl found a tiny dragon in her garden. She was very happy to have her heart.\nAs she began to tremble, she saw some old animal on the ground. She thought the dragon was very nice. The dragon was so happy. It said, \"Thank you, Lily! I can help you find my best friends.\" Lily was very happy. They all played together every day."
+    },
+    {
+      "prompt": "Tom wanted to help his friend, but he did not know how.",
+      "continuation": " He was sad and scared. So, he thought about his friend, a little bird named Sally. Sally told him about the new story. Tom was very happy and knew he had done something.\nWhen Tom came back, Mia took the toy. She gave Tom a big hug. Tom felt happy and safe. He learned that when he was not a toy like a long time.",
+      "full_text": "Tom wanted to help his friend, but he did not know how. He was sad and scared. So, he thought about his friend, a little bird named Sally. Sally told him about the new story. Tom was very happy and knew he had done something.\nWhen Tom came back, Mia took the toy. She gave Tom a big hug. Tom felt happy and safe. He learned that when he was not a toy like a long time."
+    },
+    {
+      "prompt": "The red ball rolled into the forest. Lily followed it and saw",
+      "continuation": " many colorful grass. She knew that it was good to have fun with the red ball. It was a friendly bird who found it with its beak and flew away to find it.\nLily and the red bird played with the red ball all day. They learned that it is how to help people, it is better to be nice and help others.",
+      "full_text": "The red ball rolled into the forest. Lily followed it and saw many colorful grass. She knew that it was good to have fun with the red ball. It was a friendly bird who found it with its beak and flew away to find it.\nLily and the red bird played with the red ball all day. They learned that it is how to help people, it is better to be nice and help others."
+    }
+  ]
+}

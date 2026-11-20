@@ -1,0 +1,3 @@
+{"step": 0, "train_tokens": 0, "train_loss": 9.034704685211182, "val_loss": 9.068008422851562, "runtime_seconds": 0.03556470794137567}
+{"step": 10, "train_tokens": 5120, "train_loss": 7.716024398803711, "val_loss": 7.736357688903809, "runtime_seconds": 0.33338566694874316}
+{"step": 20, "train_tokens": 10240, "train_loss": 7.303757190704346, "val_loss": 7.329321384429932, "runtime_seconds": 0.5964024169370532}

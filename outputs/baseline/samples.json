@@ -1,0 +1,24 @@
+{
+  "checkpoint_sha256": "24e13561a8e4c73210750f5c5ee466a1f0a9bb0dfde5b86f8a2237717a5bb33f",
+  "seed": 2026,
+  "temperature": 0.8,
+  "top_k": 40,
+  "max_new_tokens": 160,
+  "samples": [
+    {
+      "prompt": "Once upon a time, a little girl found a tiny dragon in her garden.",
+      "continuation": " She was very happy and said, \"Thank you, Tim! I was so glad you are! You are a good friend!\" Tim was very happy. He said, \"Thank you, Lily! I will never forget to play with you again. You all your friends.\"\nFrom that day on, Tim always shared his plane every day. He loved to play with his friends. And they lived happily ever after.",
+      "full_text": "Once upon a time, a little girl found a tiny dragon in her garden. She was very happy and said, \"Thank you, Tim! I was so glad you are! You are a good friend!\" Tim was very happy. He said, \"Thank you, Lily! I will never forget to play with you again. You all your friends.\"\nFrom that day on, Tim always shared his plane every day. He loved to play with his friends. And they lived happily ever after."
+    },
+    {
+      "prompt": "Tom wanted to help his friend, but he did not know how.",
+      "continuation": " He asked his friend, the bird, \"Why are you sad, Tom?\"\nTom said, \"I'm sorry, but I did not know where I do.\" Max thought for a moment and said, \"I know, I will help you get the bird out.\"\nTom and Sue became friends. They played together every day. But then, something unexpected happened. The bird got the bird's bird's wing! It's owner, Tom, came into the room. Tom was very happy and said, \"Thank you, Tom and Sue. Do you know how to make the bird feel better and happy!\"\nTom and Sue were both happy to help the bird. They all played together and had lots of fun. Tom learned to be kind and listen to his friend, just like Tim",
+      "full_text": "Tom wanted to help his friend, but he did not know how. He asked his friend, the bird, \"Why are you sad, Tom?\"\nTom said, \"I'm sorry, but I did not know where I do.\" Max thought for a moment and said, \"I know, I will help you get the bird out.\"\nTom and Sue became friends. They played together every day. But then, something unexpected happened. The bird got the bird's bird's wing! It's owner, Tom, came into the room. Tom was very happy and said, \"Thank you, Tom and Sue. Do you know how to make the bird feel better and happy!\"\nTom and Sue were both happy to help the bird. They all played together and had lots of fun. Tom learned to be kind and listen to his friend, just like Tim"
+    },
+    {
+      "prompt": "The red ball rolled into the forest. Lily followed it and saw",
+      "continuation": " many colorful grass. She was so happy!\nAs Lily played, something unexpected happened. It was a friendly bird! The bird said, \"Hello, Lily, for helping me. Thank you for helping me? Can you help me fly?\" Lily laughed and said, \"Yes, let's fly!\" They both played together all day, and they were happy.",
+      "full_text": "The red ball rolled into the forest. Lily followed it and saw many colorful grass. She was so happy!\nAs Lily played, something unexpected happened. It was a friendly bird! The bird said, \"Hello, Lily, for helping me. Thank you for helping me? Can you help me fly?\" Lily laughed and said, \"Yes, let's fly!\" They both played together all day, and they were happy."
+    }
+  ]
+}

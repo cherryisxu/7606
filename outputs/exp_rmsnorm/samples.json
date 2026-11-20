@@ -1,0 +1,25 @@
+{
+  "checkpoint_sha256": "3759f1cc5c5d3fbe4fd48b025e57ffb56c8874a651f07218a4fe1a4dbada72ae",
+  "seed": 2026,
+  "temperature": 0.8,
+  "top_k": 40,
+  "max_new_tokens": 160,
+  "architecture": "rmsnorm",
+  "samples": [
+    {
+      "prompt": "Once upon a time, a little girl found a tiny dragon in her garden.",
+      "continuation": " She liked to see the dragon talk and play together. One day, she went for a walk in the woods. She saw a big, red cloud that looked like a star. It was a big, and a bright star. The flower was very pretty, and she liked it very much.\nThe little girl saw the beautiful flower and wanted to show it to her friend, the little girl. She asked her friend, the little girl, the little girl, the little girl, \"Can I find it?\" The little girl looked and looked, but they could not find it. The little girl said, \"No, you can't.\"\nThe little girl was sad and said, \"Don't worry, little girl. I will find it.\" The little girl went to the garden, and",
+      "full_text": "Once upon a time, a little girl found a tiny dragon in her garden. She liked to see the dragon talk and play together. One day, she went for a walk in the woods. She saw a big, red cloud that looked like a star. It was a big, and a bright star. The flower was very pretty, and she liked it very much.\nThe little girl saw the beautiful flower and wanted to show it to her friend, the little girl. She asked her friend, the little girl, the little girl, the little girl, \"Can I find it?\" The little girl looked and looked, but they could not find it. The little girl said, \"No, you can't.\"\nThe little girl was sad and said, \"Don't worry, little girl. I will find it.\" The little girl went to the garden, and"
+    },
+    {
+      "prompt": "Tom wanted to help his friend, but he did not know how.",
+      "continuation": " He asked his mommy, \"Where is the toy?\" The dog said, \"Let's play in our house and see what's inside?\"\nTom did not know what to do. He saw a little bird on the door. The bird was trying to get the toy from the bird. Tom was surprised and scared of the bird. He picked up the toy and gave it to the bird.\nThe bird was happy and thanked Tom. From that day on, Tom and the bird became best friends. They were always safe and happy.",
+      "full_text": "Tom wanted to help his friend, but he did not know how. He asked his mommy, \"Where is the toy?\" The dog said, \"Let's play in our house and see what's inside?\"\nTom did not know what to do. He saw a little bird on the door. The bird was trying to get the toy from the bird. Tom was surprised and scared of the bird. He picked up the toy and gave it to the bird.\nThe bird was happy and thanked Tom. From that day on, Tom and the bird became best friends. They were always safe and happy."
+    },
+    {
+      "prompt": "The red ball rolled into the forest. Lily followed it and saw",
+      "continuation": " a shiny ball. She picked it up and took it to it. It was very shiny, but it was too heavy. Lily felt sad because she lost her ball.\nA kind lady came up to the lady. She saw the magic ball and wanted to play with it. The lady gave the ball a big, green ball. Lily was very happy. Now, they all played together and had a fun time.",
+      "full_text": "The red ball rolled into the forest. Lily followed it and saw a shiny ball. She picked it up and took it to it. It was very shiny, but it was too heavy. Lily felt sad because she lost her ball.\nA kind lady came up to the lady. She saw the magic ball and wanted to play with it. The lady gave the ball a big, green ball. Lily was very happy. Now, they all played together and had a fun time."
+    }
+  ]
+}
